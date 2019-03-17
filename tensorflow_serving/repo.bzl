@@ -1,4 +1,3 @@
-""" TensorFlow Http Archive
 
 Modified http_archive that allows us to override the TensorFlow commit that is
 downloaded by setting an environment variable. This override is to be used for
